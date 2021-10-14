@@ -8,7 +8,5 @@ Build the robot and enviroments using model.config and model.sdf
 
 ## Chasing Work
 Using camera sensor and getting the color information to perform a simple chasing action.
-  <figure class="video_container">
-   
-  <\figure>
+https://github.com/epengc/ros_workspace/simplescreenrecorder-2021-09-11_00.51.31.mp4
     
