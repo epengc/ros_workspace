@@ -15,5 +15,7 @@ Using camera sensor and getting the color information to perform a simple chasin
      <\video>
   <\figure>
 <\p>
-    
+<figure class="video_container">
+  <iframe src="simplescreenrecorder-2021-09-11_00.51.31.mp4" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>    
     
