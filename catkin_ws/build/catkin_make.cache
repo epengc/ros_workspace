@@ -1,0 +1,2 @@
+ball_chaser:my_robot
+-DPYTHON_EXECUTABLE=/usr/bin/python3 -DCATKIN_DEVEL_PREFIX=/home/epengc/workspace/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/epengc/workspace/catkin_ws/install -G Unix Makefiles
