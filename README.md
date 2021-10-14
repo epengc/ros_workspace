@@ -7,3 +7,10 @@ Build the robot and enviroments using model.config and model.sdf
 </p>
 
 ## Chasing Work
+Using camera sensor and getting the color information to perform a simple chasing action.
+<p align="center">
+  <figure class="video_container">
+    <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+      <source src="simplescreenrecorder-2021-09-11_00.51.31.mp4" type="video/mp4">
+    
+    
